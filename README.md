@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahpar Yilmaz</h1>
-<h3 align="center">I'm a CSE Undergrad and a self taugh Web Developer from India</h3>
+<h3 align="center">I'm a CSE Undergrad and a self taught Web Developer from India</h3>
 
 - 🔭 I’m currently working on **Amazon Price Tracker**
 
